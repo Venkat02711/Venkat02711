@@ -1,15 +1,15 @@
-CS Student | Tech Explorer | Problem Solver
+# Hi, I’m Venkat 👋
 
-🚀 Passionate about coding, systems, and automation
+I’m a Computer Science student passionate about coding, problem solving, and building practical projects.  
+I’m currently learning Operating Systems, Algorithms, and System Design.  
 
-🧠 Currently learning Operating Systems, Microprocessors, and Algorithms
+💻 **Languages & Tools:**  
+C · C++ · Python · Java · Bash · HTML/CSS · JavaScript · Node.js · MySQL · Git
 
-⚙️ Love tinkering with Linux, shell scripts, and low-level logic
+🔭 **Projects You Can Explore:**  
+- **Hospital Management System** – C project using binary files  
+- **Tic Tac Toe Game (Python)** – GUI X‑O game with Tkinter  
+- **Cricket Data Analytics** – Shell tool for cricket stats  
+- **Event Management System** – Web app using Node.js & MySQL
 
-🧩 I post small projects, experiments, and assignments here — feel free to explore!
-
-📚 Always curious, always building
-
-
-Languages & Tools:
-C · C++ · Python · Java · Bash · Git
+👨‍💻 Always curious, always learning — feel free to explore my repositories!
