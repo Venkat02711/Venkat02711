@@ -12,4 +12,7 @@ C · C++ · Python · Java · Bash · HTML/CSS · JavaScript · Node.js · MySQL
 - **Cricket Data Analytics** – Shell tool for cricket stats  
 - **Event Management System** – Web app using Node.js & MySQL
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat02711&layout=compact&theme=radical)
+
+
 👨‍💻 Always curious, always learning — feel free to explore my repositories!
