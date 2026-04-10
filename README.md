@@ -7,7 +7,7 @@ I’m currently learning Operating Systems, Algorithms, and System Design.
 C · C++ · Python · Java · Bash · HTML/CSS · JavaScript · Node.js · MySQL · Git
 
 🔭 **Projects You Can Explore:**  
-- **MailX – Python Socket Email Client & Server** - (Python + Tkinter)
+- **PyMail – Python Socket Email Client & Server** - (Python + Tkinter)
 - **Hospital Management System** – C project using binary files  
 - **Tic Tac Toe Game (Python)** – GUI X‑O game with Tkinter  
 - **Cricket Data Analytics** – Shell tool for cricket stats  
