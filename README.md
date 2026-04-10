@@ -7,10 +7,12 @@ I’m currently learning Operating Systems, Algorithms, and System Design.
 C · C++ · Python · Java · Bash · HTML/CSS · JavaScript · Node.js · MySQL · Git
 
 🔭 **Projects You Can Explore:**  
+-**MailX – Python Socket Email Client & Server** - (Python + Tkinter)
 - **Hospital Management System** – C project using binary files  
 - **Tic Tac Toe Game (Python)** – GUI X‑O game with Tkinter  
 - **Cricket Data Analytics** – Shell tool for cricket stats  
 - **Event Management System** – Web app using Node.js & MySQL
+- **FitMatch – Smart Wardrobe & Outfit Recommender** - (Java + MySQL)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat02711&layout=compact&theme=radical)
 
